@@ -1,0 +1,9 @@
+Package: SDDA
+Date: 2013-11-4
+Title: Stepwise Diagonal Discriminant Analysis
+Version: 1.0-7
+Author: CSIRO Bioinformatics, Glenn Stone
+Description: Stepwsie Diagonal Discriminant Analysis - a fast algorithm for building multivariate classifiers
+Maintainer: David Clifford <David.Clifford@csiro.au>
+License: file LICENSE
+Depends: MASS

@@ -1,0 +1,9 @@
+plotdiag                Diagnostic Plots for SDDA
+predict.sdda            Predict functionality for stepwise diagonal
+                        discriminant analysis
+print.sdda              Print SDDA output to screen
+sdda                    Stepwise Diagonal Discriminant Analysis
+summary.sdda            Summarise SDDA output
+which.genes             Print list of genes chosen by SDDA
+xvalidate               Produces cross validated fitted values for
+                        sdda.

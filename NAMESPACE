@@ -1,0 +1,3 @@
+useDynLib(SDDA)
+
+export(predict.sdda,sdda,xvalidate,plotdiag,which.genes,print.sdda,summary.sdda)
